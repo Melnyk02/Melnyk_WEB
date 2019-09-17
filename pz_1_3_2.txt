@@ -1,0 +1,13 @@
+git checkout pz_1_3_1
+git add .
+git commit -m "clonye"
+git add .
+git commit -m "add file"
+git add .
+git commit -m "add first commit"
+git add .
+git commit -m "add second commit"
+git add .
+git commit -m "add branch"
+git checkout master
+merge pz_1_3_1
