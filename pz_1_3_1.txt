@@ -1,1 +1,2 @@
 git clone https://github.com/Melnyk02/Melnyk_WEB.git
+git add .
